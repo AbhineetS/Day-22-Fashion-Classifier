@@ -1,0 +1,21 @@
+# Model artifacts / checkpoints
+*.h5
+*.keras
+*.ckpt
+*.pth
+
+# Images / outputs
+*.png
+*.jpg
+*.jpeg
+
+# Python / caches
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
